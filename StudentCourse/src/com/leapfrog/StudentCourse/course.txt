@@ -1,0 +1,4 @@
+1,Core Java,12000
+2,Advanced Java,20000
+3,Android with React Native,20000
+4,Python & Data Science,20000

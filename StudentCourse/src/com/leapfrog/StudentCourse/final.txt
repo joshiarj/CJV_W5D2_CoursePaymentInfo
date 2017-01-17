@@ -1,0 +1,5 @@
+Sandip Khatri|Core Java|3000|9000|1560.0
+Sandip Khatri|Advanced Java|5000|15000|2600.0
+Suman Shrestha|Core Java|5000|7000|1560.0
+Suman Shrestha|Android with React Native|12000|8000|2600.0
+Abdul Aziz|Android with React Native|5000|15000|2600.0
